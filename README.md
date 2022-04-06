@@ -20,7 +20,7 @@ Com a maquina iniciada vamos iniciar a enumeração com um port scan usando o nm
 
 ![Source Login Port 80](https://user-images.githubusercontent.com/32500664/142089127-98ff3126-0b99-4c69-8201-5f780576f0d1.jpg)
 
-Fazendo um directory brute force na pagina 80 não achei nada de interessante, porém, na 5000...
+Fazendo um fuzzing na pagina 80 não achei nada de interessante, porém, na 5000...
 
 ![FFuf](https://user-images.githubusercontent.com/32500664/142090080-91fd42f8-e30c-4d9e-a855-80fbdee1d640.png)
 
