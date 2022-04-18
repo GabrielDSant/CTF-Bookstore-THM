@@ -49,7 +49,7 @@ Lembra do comentário que basicamente diz que o PIN está no arquivo ".bash_hist
 
 Conseguimos com o arquivo Passwd como forma de teste
 
-![TestCURLAPI](https://user-images.githubusercontent.com/32500664/142101829-1cab5341-e574-48fe-ab2b-c4c25b560ed3.png
+![TestCURLAPI](https://user-images.githubusercontent.com/32500664/142101829-1cab5341-e574-48fe-ab2b-c4c25b560ed3.png)
 
 Agora Como mágica 🎩 OLHA O PIN AI
 
