@@ -123,7 +123,7 @@ Depois de rasgar minha cabeça no google pra entender o que é esse operador (^)
   1 1 0 0
 '''
 
-# Você pode transformar esses valores hexadecimais em decimais e fazer o calculo utilizando o python em decimal mesmo em hexadecimal mesmo (que é o utilizado por mim)
+# Você pode transformar esses valores hexadecimais em decimais e fazer o calculo utilizando o python em decimal mesmo em hexadecimal mesmo (que é o utilizado)
 
 ![InkedFazendoConta_LI](https://user-images.githubusercontent.com/32500664/142138015-eadba549-f63a-4139-a74b-cf54bf939f63.jpg)
 
